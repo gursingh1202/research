@@ -21,3 +21,16 @@ Seaborn, matplotlib, pandas, os, numpy, nltk, sklearn, datasets, pip3
 
 Code snippets are inside code along with results in appendix.
 
+##
+UIS Research centre - research
+<br>
+### Name
+Common Shocks in Italian Stocks and Bonds and the impact of the ECB Monetary Policy
+<br>
+### Languages
+Python, MATLAB
+<br>
+### LinkedIn link 
+https://www.linkedin.com/posts/uis-research-centre_giorgio-militello-presents-a-first-insight-activity-7280922443832061952-PQFg?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACse550BRF3V_ijyDuLDn6Jj-bZtgq2jSBk
+
+
